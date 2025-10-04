@@ -1,0 +1,7 @@
+names:
+  0: target_object
+nc: 1
+path: C:\work\defence_hackathon\yolo_dataset
+test: test/images
+train: train/images
+val: val/images
