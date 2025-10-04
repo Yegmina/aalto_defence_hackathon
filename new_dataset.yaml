@@ -1,0 +1,8 @@
+names:
+  0: cup
+  1: bottle
+nc: 2
+path: C:\work\defence_hackathon\new_dataset\yolo_dataset
+test: test/images
+train: train/images
+val: val/images
